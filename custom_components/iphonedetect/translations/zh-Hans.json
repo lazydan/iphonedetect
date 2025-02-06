@@ -8,7 +8,7 @@
     "config": {
         "step": {
             "user": {
-                "description": "保证此设备有静态IP",
+                "description": "请确保此设备拥有静态IP",
                 "data": {
                     "name": "名称",
                     "ip_address": "IP地址",
